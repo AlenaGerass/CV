@@ -1,0 +1,23 @@
+
+  body {
+    background-color: #EDF5E1;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+  }
+
+  table {
+    border-collapse: collapse;
+    background-color: white;
+    border-spacing: 7px 5px;
+    border: 1px solid #399;
+    width: 50%;
+  }
+td {
+border: 1px solid #333;
+padding: 4px;
+}
